@@ -1,3 +1,3 @@
-# Kodluyoruz.org HTML Odev3
+# Kodluyoruz.org - HTML Bolum Sonu Calismasi
 
 Veli Can Yıldız
